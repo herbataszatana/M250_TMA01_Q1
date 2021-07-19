@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=longNumber
+comment0.target=CreditCardChecker(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getLongNumber()
+comment1.text=\r\n\ Method\ for\ getting\ longNumber\r\n
+comment2.params=
+comment2.target=boolean\ isCorrectLength()
+comment2.text=\r\n\ Check\ if\ number\ of\ digits\ in\ longNumber\ equals\ 16\r\n
+comment3.params=
+comment3.target=java.lang.String\ firstFifteen()
+comment3.text=\r\n\ This\ method\ returns\ first\ 15\ digits\ of\ longNumber\r\n
+comment4.params=
+comment4.target=int\ calculateCheckNumber()
+comment4.text=\r\n\ This\ method\ calculates\ S\ and\ C,\ and\ returns\ C\ \r\n
+comment5.params=
+comment5.target=void\ validNumberResults()
+comment5.text=\r\n\ This\ method\ checks\ if\ the\ number\ is\ correct\ lenght\ and\ if\ 'c'\ is\ the\ same\ as\ the\ last\ digit\ of\ the\ number.\r\n\ If\ it\ is\ it\ "Could\ be\ valid"\ else\ displays\ a\ message\ saying\ "Not\ valid".\r\n\r\n
+numComments=6

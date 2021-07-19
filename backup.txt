@@ -1,0 +1,3 @@
+yourNumber =34;
+char choice;
+choice = 'Q';
